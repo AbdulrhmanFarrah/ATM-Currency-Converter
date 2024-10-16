@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 enum enHeader { Register = 1 , currency_converter = 2};
